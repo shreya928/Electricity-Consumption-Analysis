@@ -31,7 +31,7 @@ SQL scripts are available in the `sql/` folder:
 
 ---
 
-## Tableau Dashboard
+## Tableau Dashboards
 The interactive dashboard is available online:
 
 [View Dashboard](https://public.tableau.com/app/profile/rishika.chakradhar/viz/Book1_17724740584550/Dashboard1?publish=yes)
@@ -40,7 +40,17 @@ The interactive dashboard is available online:
 - **Bar chart:** Total consumption per city  
 - **Line chart:** Monthly consumption trends  
 - **Table:** High-consumption customers  
-- **Filters:** By city and date  
+- **Filters:** By city and date
+
+- ## Visualization part 1 - Consumption Overview
+-View dashboard(https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionAnalysis_17725678845150/Dashboard1?publish=yes)
+
+###Dashboard Covers
+-Total Consumption
+-2019 vs 2020 Consumption
+-Usage by Region
+-Top 5 States by Consumption
+-Bottom 5 States by Consumption
 
 ---
 
