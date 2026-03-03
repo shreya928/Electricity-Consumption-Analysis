@@ -42,15 +42,17 @@ The interactive dashboard is available online:
 - **Table:** High-consumption customers  
 - **Filters:** By city and date
 
-- ## Visualization Part 1 - Consumption Overview
+
+## Visualization Part 1 - Consumption Overview
 [View dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionAnalysis_17725678845150/Dashboard1?publish=yes)
 
-### Dashboard Covers
+### Dashboard Covers :
 -Total Consumption
 -2019 vs 2020 Consumption
 -Usage by Region
 -Top 5 States by Consumption
 -Bottom 5 States by Consumption
+
 
 ## Visualization Part 2 – Trend & Lockdown Analysis
 [view dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionTrendLockdownImpactAnalysis/Dashboard2?publish=yes)
