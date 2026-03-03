@@ -1,12 +1,16 @@
--- Total Electricity Usage
-SELECT SUM(Usage) FROM electricity_data;
+-- 1️⃣ Total Electricity Usage
+SELECT SUM(Usage) AS Total_Usage
+FROM electricity_data;
 
--- State-wise Usage
-SELECT States, SUM(Usage)
+-- 2️⃣ State-wise Electricity Usage
+SELECT States, SUM(Usage) AS State_Total_Usage
 FROM electricity_data
-GROUP BY States;
+GROUP BY States
+ORDER BY State_Total_Usage DESC;
 
--- Monthly Usage
-SELECT MONTH(Dates), SUM(Usage)
+-- 3️⃣ Monthly Electricity Usage
+SELECT MONTH(Dates) AS Month_Number,
+       SUM(Usage) AS Monthly_Total_Usage
 FROM electricity_data
-GROUP BY MONTH(Dates);
+GROUP BY MONTH(Dates)
+ORDER BY Month_Number;
