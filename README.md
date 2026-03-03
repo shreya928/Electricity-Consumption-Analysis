@@ -43,7 +43,7 @@ The interactive dashboard is available online:
 - **Filters:** By city and date
 
 - ## Visualization part 1 - Consumption Overview
--View dashboard(https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionAnalysis_17725678845150/Dashboard1?publish=yes)
+-[View dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionAnalysis_17725678845150/Dashboard1?publish=yes)
 
 ###Dashboard Covers
 -Total Consumption
