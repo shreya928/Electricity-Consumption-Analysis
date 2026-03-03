@@ -44,6 +44,8 @@ The interactive dashboard is available online:
 
 
 ## Visualization Part 1 - Consumption Overview
+
+🔗 **View Dashboard:**  
 [View dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionAnalysis_17725678845150/Dashboard1?publish=yes)
 
 ### Dashboard Covers:
@@ -59,8 +61,11 @@ The interactive dashboard is available online:
 - Identifies regions with higher electricity usage
 - Ranks states based on consumption performance
 
+  
 
 ## Visualization Part 2 – Trend & Lockdown Analysis
+
+🔗 **View Dashboard:**  
 [view dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionTrendLockdownImpactAnalysis/Dashboard2?publish=yes)
 
 ### Dashboard Covers:
@@ -73,6 +78,25 @@ The interactive dashboard is available online:
 - Identifies regional demand distribution
 - Evaluates the impact of lockdown on electricity consumption
 
+
+## Visualization Part 3 – Advanced Time & Regional Analysis
+
+🔗 **View Dashboard:**  
+[view dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumption-AdvancedAnalysis/Dashboard3?publish=yes)
+
+### Dashboard Covers:
+- Month-wise top consumption by leading states  
+- Region-wise state consumption for 2019 and 2020  
+- Quarter-wise electricity usage comparison  
+- Year-wise monthly usage trends  
+- Metro and industrial state consumption analysis  
+
+### Key Insights:
+- Identifies top-performing states in specific months  
+- Compares state-level consumption across regions  
+- Highlights quarterly demand fluctuations for 2019 and 2020  
+- Analyzes yearly trends through month-wise breakdown  
+- Evaluates electricity usage in major metro and industrial states  
 ---
 
 ## Project Structure
