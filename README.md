@@ -46,12 +46,18 @@ The interactive dashboard is available online:
 ## Visualization Part 1 - Consumption Overview
 [View dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionAnalysis_17725678845150/Dashboard1?publish=yes)
 
-### Dashboard Covers :
--Total Consumption
--2019 vs 2020 Consumption
--Usage by Region
--Top 5 States by Consumption
--Bottom 5 States by Consumption
+### Dashboard Covers:
+- Total electricity consumption (KPI summary)
+- 2019 vs 2020 consumption comparison
+- Region-wise electricity usage
+- Top 5 states by total consumption
+- Bottom 5 states by total consumption
+
+### Key Insights:
+- Provides a high-level overview of overall electricity demand
+- Highlights year-over-year consumption trends
+- Identifies regions with higher electricity usage
+- Ranks states based on consumption performance
 
 
 ## Visualization Part 2 – Trend & Lockdown Analysis
