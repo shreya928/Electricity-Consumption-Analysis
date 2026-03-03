@@ -45,7 +45,7 @@ The interactive dashboard is available online:
 - ## Visualization part 1 - Consumption Overview
 -[View dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumptionAnalysis_17725678845150/Dashboard1?publish=yes)
 
-###Dashboard Covers
+### Dashboard Covers
 -Total Consumption
 -2019 vs 2020 Consumption
 -Usage by Region
