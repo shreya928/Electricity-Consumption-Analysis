@@ -96,7 +96,57 @@ The interactive dashboard is available online:
 - Compares state-level consumption across regions  
 - Highlights quarterly demand fluctuations for 2019 and 2020  
 - Analyzes yearly trends through month-wise breakdown  
-- Evaluates electricity usage in major metro and industrial states  
+- Evaluates electricity usage in major metro and industrial states
+
+
+## Responsive and Interactive Tableau Dashboards
+
+This project includes three interactive dashboards built using Tableau to analyze electricity consumption patterns.
+
+### 🔹 Dashboard 1 – Electricity Consumption Overview
+
+[View Dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumption-AdvancedAnalysis/Dashboard5?publish=yes)
+
+**Visualizations Included:**
+- 2019 Electricity Consumption Map
+- 2020 Electricity Consumption Map
+- Year-wise Consumption by Region
+- Region-wise Electricity Consumption
+- Total Consumption by States
+
+**Purpose:**
+Provides a high-level overview of electricity consumption across states and regions for the years 2019 and 2020.
+
+---
+
+### 🔹 Dashboard 2 – State Consumption Analysis
+
+[View Dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumption-AdvancedAnalysis/Dashboard5?publish=yes)
+
+**Visualizations Included:**
+- Region-wise Consumption
+- Top 5 States by Electricity Usage
+- Bottom 5 States by Electricity Usage
+
+**Purpose:**
+Helps identify states with the highest and lowest electricity consumption and compare usage across regions.
+
+---
+
+### 🔹 Dashboard 3 – Time-Based Consumption Analysis
+
+[View Dashboard](https://public.tableau.com/app/profile/shreya.pathak8286/viz/ElectricityConsumption-AdvancedAnalysis/Dashboard5?publish=yes)
+
+**Visualizations Included:**
+- Usage by Quarter
+- Usage by Year
+- 2019 Month-wise Consumption
+- 2020 Month-wise Consumption
+
+**Purpose:**
+Analyzes electricity consumption trends over time including monthly, quarterly, and yearly comparisons.
+
+
 ---
 
 ## Project Structure
