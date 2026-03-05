@@ -173,3 +173,25 @@ Electricity-Consumption-Analysis/
 | Scene 2 | State Consumption Analysis | Compares the top and bottom electricity consuming states. |
 | Scene 3 | Trend & Lockdown Analysis | Displays how electricity consumption changed during lockdown. |
 | Scene 4 | Time-Based Consumption Analysis | Shows monthly, quarterly and yearly electricity consumption trends. |
+'''
+
+## Dataset Summary
+
+The dataset used in this project contains electricity consumption records used for analysis and visualization.
+
+**Dataset Details**
+
+Rows: ~730  
+Columns: 4  
+
+Columns include:
+
+- `customer_id` – Unique identifier for each customer  
+- `city` – Customer’s city  
+- `consumption` – Electricity consumption in units  
+- `date` – Date of electricity consumption record  
+
+Missing Values: No major missing values detected.
+
+This dataset was used for SQL analysis and Tableau dashboard visualizations.
+'''
