@@ -169,6 +169,17 @@ Analyzes electricity consumption trends over time including monthly, quarterly, 
 
 ---
 
+| Scene | Visualization | Purpose |
+|------|---------------|---------|
+| Scene 1 | Total Electricity Consumption | Shows overall electricity usage across India |
+| Scene 2 | State-wise Electricity Consumption | Compares electricity usage between different states |
+| Scene 3 | Monthly Electricity Trend | Shows how electricity usage changes month by month |
+| Scene 4 | Region-wise Consumption | Identifies which regions consume the most electricity |
+| Scene 5 | Top 5 States by Consumption | Highlights states with highest electricity usage |
+| Scene 6 | Bottom 5 States by Consumption | Shows states with lowest electricity consumption |
+
+
+
 ## Project Structure
 
 ''' 
@@ -184,6 +195,7 @@ Electricity-Consumption-Analysis/
 │ └─ (Dashboard screenshots optional)
 └─ README.md
 '''
+
 
 ## Story Scenes
 
