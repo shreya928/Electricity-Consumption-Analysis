@@ -169,6 +169,7 @@ Analyzes electricity consumption trends over time including monthly, quarterly, 
 
 ---
 
+## Tableau Story Scenes
 | Scene | Visualization | Purpose |
 |------|---------------|---------|
 | Scene 1 | Total Electricity Consumption | Shows overall electricity usage across India |
@@ -178,7 +179,7 @@ Analyzes electricity consumption trends over time including monthly, quarterly, 
 | Scene 5 | Top 5 States by Consumption | Highlights states with highest electricity usage |
 | Scene 6 | Bottom 5 States by Consumption | Shows states with lowest electricity consumption |
 
-
+---
 
 ## Project Structure
 
