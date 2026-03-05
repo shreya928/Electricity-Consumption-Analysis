@@ -8,13 +8,14 @@ The goal is to understand usage patterns, identify high-consumption customers, a
 
 ## Dataset
 - The data is stored in `data/electricity_data.csv`.
-- Contains the following columns:
-States : Name of Indian state
-Regions : Region classification (NR, SR, WR, ER, NER)
-Latitude : Geographic latitude of the state
-Longitude : Geographic longitude of the state
-Dates : Date of electricity consumption record
-Usage : Electricity consumption units
+Contains the following columns:
+
+- States : Name of Indian state
+- Regions : Region classification (NR, SR, WR, ER, NER)
+- Latitude : Geographic latitude of the state
+- Longitude : Geographic longitude of the state
+- Dates : Date of electricity consumption record
+- Usage : Electricity consumption units
  
 ### Dataset Summary
 
