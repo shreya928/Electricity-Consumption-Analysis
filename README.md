@@ -9,10 +9,12 @@ The goal is to understand usage patterns, identify high-consumption customers, a
 ## Dataset
 - The data is stored in `data/electricity_data.csv`.
 - Contains the following columns:
-  - `customer_id` : Unique identifier for each customer
-  - `city` : Customer's city
-  - `consumption` : Electricity consumption in units
-  - `date` : Date of consumption record
+States : Name of Indian state
+Regions : Region classification (NR, SR, WR, ER, NER)
+Latitude : Geographic latitude of the state
+Longitude : Geographic longitude of the state
+Dates : Date of electricity consumption record
+Usage : Electricity consumption units
  
 ### Dataset Summary
 
