@@ -204,3 +204,15 @@ This dataset was used for SQL analysis and Tableau dashboard visualizations.
 | Date | Line charts | Shows electricity usage trends for selected time period |
 ''' 
 
+## Performance Testing
+
+To ensure the dashboard works efficiently, the following checks were performed:
+
+- Dataset Size: ~730 records
+- Dashboard Load Time: Approximately 2 seconds
+- Filters Tested: City filter and Date filter
+- Number of Visualizations: 5+
+- Calculated Fields: Monthly electricity consumption trends
+
+All filters and visualizations were tested and confirmed to work correctly.
+''' 
