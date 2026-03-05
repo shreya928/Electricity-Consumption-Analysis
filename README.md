@@ -209,7 +209,7 @@ Electricity-Consumption-Analysis/
 | Scene 3 | Trend & Lockdown Analysis | Displays how electricity consumption changed during lockdown. |
 | Scene 4 | Time-Based Consumption Analysis | Shows monthly, quarterly and yearly electricity consumption trends. |
 
-'''
+---
 
 ## Dashboard Filters
 
