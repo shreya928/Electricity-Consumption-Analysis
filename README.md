@@ -181,6 +181,7 @@ Analyzes electricity consumption trends over time including monthly, quarterly, 
 
 ---
 
+
 ## Project Structure
 
 ''' 
